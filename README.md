@@ -1,16 +1,47 @@
-### Hi there 👋
+# Posho
 
-<!--
-**PoshoDev/PoshoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Howdy! I'm a game developer + cartoonist. Welcome to my GitHub profile! Check my [Twitter](https://twitter.com/PoshoDev)!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Game Jams
+
+| Year | Event | Title |
+| ---- | ----- | ----- |
+|      |       |       |
+|      |       |       |
+|      |       |       |
+|      |       |       |
+|      |       |       |
+|      |       |       |
+|      |       |       |
+|      |       |       |
+|      |       |       |
+|      |       |       |
+|      |       |       |
+|      |       |       |
+|      |       |       |
+|      |       |       |
+|      |       |       |
+|      |       |       |
+|      |       |       |
+|      |       |       |
+|      |       |       |
+
+
+
+## Tools
+
+| Name                                             | Description                                                  |
+| ------------------------------------------------ | ------------------------------------------------------------ |
+| [📦 DexTool](https://github.com/PoshoDev/DexTool) | Management tools for a Pokémon Living Dex, shiny hunting and streaming. |
+| [🌱 Twig](https://github.com/PoshoDev/Twig)       | Visual dialog editor for visual novel and games that exports data as CSV. |
+
+
+
+## Libraries
+
+| Name                                               | Description                                     |
+| -------------------------------------------------- | ----------------------------------------------- |
+| [📚 PoshoLib](https://github.com/PoshoDev/PoshoLib) | Tools and utilities for GameMaker: Studio 2.3+. |
+
