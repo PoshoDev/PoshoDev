@@ -2,6 +2,8 @@
 
 Howdy! I'm a game developer + cartoonist. Welcome to my GitHub profile! Check my [Twitter](https://twitter.com/PoshoDev)!
 
+![](https://github.com/PoshoDev/PoshoDev/blob/master/Artwork/OK_Posho.png?raw=true)
+
 
 
 ## Game Jams
