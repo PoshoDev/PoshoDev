@@ -6,43 +6,6 @@ Howdy! I'm a game developer + cartoonist. Welcome to my GitHub profile! Check my
 
 
 
-## Game Jams
-
-|                             GAME                             |                             JAM                              |                            GAMES                             |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|                                                              |                                                              |                                                              |
-|                                                              | ![](https://github.com/PoshoDev/PoshoDev/blob/master/Artwork/fromabove.png?raw=true) | ![](https://github.com/PoshoDev/PoshoDev/blob/master/Artwork/blindsoccer.png?raw=true) |
-| ![](https://github.com/PoshoDev/PoshoDev/blob/master/Artwork/pikandpok.png?raw=true) |                                                              |                                                              |
-|                                                              |                                                              |                                                              |
-|                                                              |                                                              |                                                              |
-
-
-
-| Title / Event                         | Image                                                        |
-| ------------------------------------- | ------------------------------------------------------------ |
-| Chiromaniac<br />Global Game Jam 2020 | ![](https://github.com/PoshoDev/PoshoDev/blob/master/Artwork/chiromaniac.png?raw=true) |
-| Housardous<br />Global Game Jam 2019  |                                                              |
-| Distorb<br />Global Game Jam 2018     |                                                              |
-| Say! Hey!<br />Global Game Jam 2017   |                                                              |
-| From Above<br />Global Game Jam 2016  | ![](https://github.com/PoshoDev/PoshoDev/blob/master/Artwork/fromabove.png?raw=true) |
-| Blind Soccer<br />Hack-MTY 2015       |                                                              |
-|                                       |                                                              |
-|                                       |                                                              |
-|                                       |                                                              |
-|                                       |                                                              |
-|                                       |                                                              |
-|                                       |                                                              |
-|                                       |                                                              |
-|                                       |                                                              |
-|                                       |                                                              |
-|                                       |                                                              |
-|                                       |                                                              |
-|                                       |                                                              |
-|                                       |                                                              |
-|                                       |                                                              |
-
-
-
 ## Tools
 
 | Name                                             | Description                                                  |
@@ -57,4 +20,16 @@ Howdy! I'm a game developer + cartoonist. Welcome to my GitHub profile! Check my
 | Name                                               | Description                                     |
 | -------------------------------------------------- | ----------------------------------------------- |
 | [📚 PoshoLib](https://github.com/PoshoDev/PoshoLib) | Tools and utilities for GameMaker: Studio 2.3+. |
+
+
+
+## Game Jams
+
+|                             GAME                             |                             JAM                              |                            GAMES                             |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|            Chiromaniac<br />Global Game Jam 2020             |             Housardous<br />Global Game Jam 2019             |              Distorb<br />Global Game Jam 2018               |
+|             Say! Hey!<br />Global Game Jam 2017              | ![](https://github.com/PoshoDev/PoshoDev/blob/master/Artwork/fromabove.png?raw=true)<br />From Above<br />Global Game Jam 2016 | ![](https://github.com/PoshoDev/PoshoDev/blob/master/Artwork/blindsoccer.png?raw=true)<br />Blind Soccer<br />Hack-MTY 2015 |
+| ![](https://github.com/PoshoDev/PoshoDev/blob/master/Artwork/pikandpok.png?raw=true) |                                                              |                                                              |
+|                                                              |                                                              |                                                              |
+|                                                              |                                                              |                                                              |
 
