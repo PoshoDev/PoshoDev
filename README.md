@@ -21,7 +21,7 @@ Howdy! I'm a game developer + cartoonist. Welcome to my GitHub profile! Check my
 
 | Name                                               | Description                                     |
 | -------------------------------------------------- | ----------------------------------------------- |
-| [📚 PoshoLib](https://github.com/PoshoDev/PoshoLib) | Tools and utilities for GameMaker: Studio 2.3+. |
+| [📚 PoshoLib](https://github.com/PoshoDev/PoshoLib) | Tools and utilities for GameMaker: Studio 2.3+ with documentation. |
 
 
 
