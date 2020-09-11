@@ -27,9 +27,10 @@ Howdy! I'm a game developer + cartoonist. Welcome to my GitHub profile! Check my
 
 ## Stash
 
-| Name                                                 | Description        |
-| ---------------------------------------------------- | ------------------ |
-| [🍥 Fibonacci](https://github.com/PoshoDev/Fibonacci) | Graphic Fibonacci. |
+| Name                                                 | Description                                    |
+| ---------------------------------------------------- | ---------------------------------------------- |
+| [🍥 Fibonacci](https://github.com/PoshoDev/Fibonacci) | Graphic Fibonacci.                             |
+| [🎞️ Pelicool](https://github.com/PoshoDev/Pelicool)   | Lame movie database with an equally lame name. |
 
 
 
