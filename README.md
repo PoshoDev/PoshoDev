@@ -12,10 +12,11 @@ Howdy! I'm a game developer + cartoonist. Welcome to my GitHub profile!
 
 | Name                                             | Description                                                  |
 | ------------------------------------------------ | ------------------------------------------------------------ |
-| [📦 DexTool](https://github.com/PoshoDev/DexTool) | Management tools for a Pokémon Living Dex, shiny hunting and streaming. |
-| [🌱 Twig](https://github.com/PoshoDev/Twig)       | Visual dialog editor for visual novel and games that exports data as CSV. |
-| [🚚 Driver](https://github.com/PoshoDev/Driver)   | Output comparison tool for competitive programming or CS assignments.  
-| [🧇 Waffle](https://github.com/PoshoDev/Waffle)   | Custom Markdown grids! |
+| [🎩 Compressto](https://github.com/PoshoDev/Compressto) | Batch image compression, conversion and other tools; with continuous search options. |
+| [📦 DexTool](https://github.com/PoshoDev/DexTool)       | Management tools for a Pokémon Living Dex, shiny hunting and streaming. |
+| [🌱 Twig](https://github.com/PoshoDev/Twig)             | Visual dialog editor for visual novel and games that exports data as CSV. |
+| [🚚 Driver](https://github.com/PoshoDev/Driver)         | Output comparison tool for competitive programming or CS assignments.  
+| [🧇 Waffle](https://github.com/PoshoDev/Waffle)         | Custom Markdown grids! |
 
 
 
@@ -24,7 +25,7 @@ Howdy! I'm a game developer + cartoonist. Welcome to my GitHub profile!
 | Name                                               | Description                                     |
 | -------------------------------------------------- | ----------------------------------------------- |
 | [📚 PoshoLib](https://github.com/PoshoDev/PoshoLib) | Tools and utilities for GameMaker: Studio 2.3+ with documentation. |
-| [🍞 Loaf](https://github.com/PoshoDev/Loaf)       | Effortlessly access your MySQL server and procedures, plus some other utilities! |
+| [🍞 Loaf](https://github.com/PoshoDev/Loaf)         | Effortlessly access your MySQL server and procedures, plus some other utilities! |
 | [🖼️ Frame](https://github.com/PoshoDev/Frame)       | Pretty interfaces for your Python scripts! |
 
 
