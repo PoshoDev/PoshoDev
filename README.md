@@ -25,7 +25,7 @@ Howdy! I'm a game developer + cartoonist. Welcome to my GitHub profile!
 | Name                                               | Description                                     |
 | -------------------------------------------------- | ----------------------------------------------- |
 | [📚 PoshoLib](https://github.com/PoshoDev/PoshoLib) | Tools and utilities for GameMaker: Studio 2.3+ with documentation. |
-| [🍞 Loaf](https://github.com/PoshoDev/Loaf)         | Effortless SQL server and procedures—plus other utilities—for people who hate cursors! |
+| [🍞 Loaf](https://github.com/PoshoDev/Loaf)         | Effortless SQL server and procedures—plus other utilities—for people who *really* hate cursors! |
 | [🖼️ Frame](https://github.com/PoshoDev/Frame)       | Pretty interfaces for your Python scripts! |
 
 
