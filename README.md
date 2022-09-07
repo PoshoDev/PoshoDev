@@ -10,9 +10,10 @@ Howdy! I'm a game developer + cartoonist. Welcome to my GitHub profile!
 
 ## Tools
 
-| Name                                             | Description                                                  |
-| ------------------------------------------------ | ------------------------------------------------------------ |
+| Name                                                    | Description                                                  |
+| ------------------------------------------------------- | ------------------------------------------------------------ |
 | [📦 DexTool](https://github.com/PoshoDev/DexTool)       | Management tools for a Pokémon Living Dex, shiny hunting and streaming. |
+| [👻 Ghost](https://github.com/PoshoDev/Ghost)           | Mirror and sync files across multiple directories. |
 | [🎩 Compressto](https://github.com/PoshoDev/Compressto) | Batch image compression, conversion and other tools; with continuous search options. |
 | [🌱 Twig](https://github.com/PoshoDev/Twig)             | Visual dialog editor for visual novel and games that exports data as CSV. |
 | [🚚 Driver](https://github.com/PoshoDev/Driver)         | Output comparison tool for competitive programming or CS assignments.  
